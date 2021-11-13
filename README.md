@@ -1,2 +1,2 @@
 # Kilometers-to-Miles
-This program converts kilometers to miles and display it.
+This python program converts kilometers to miles and display it.
